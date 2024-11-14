@@ -1391,6 +1391,9 @@ ul li, ol li {
   .sessonDiv {
     flex-direction: row; /* Itens lado a lado */
   }
+  .overlay.visible{
+    margin-left: 3.6rem
+    }
 }
 
 
